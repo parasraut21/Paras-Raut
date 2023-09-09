@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Paras Raut</h1>
-<h3 align="center">#About Me</h3>
+<h3 align="center">About Me</h3>
 <p>Currently pursuing a B.Tech in Computer Engineering at MIT-World Peace University, I possess a fervent
 passion for web development and a command over coding languages, including HTML, CSS, JavaScript,
 Node.js, MongoDB, and MySQL. With a knack for collaborative problem-solving and an aptitude for
