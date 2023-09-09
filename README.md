@@ -1,4 +1,4 @@
-![logo](https://github.com/paras-raut/paras-raut/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Paras Raut</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -15,8 +15,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paras-raut&show_icons=true&locale=en&layout=compact" alt="paras-raut" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parasraut21&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paras-raut&show_icons=true&locale=en" alt="paras-raut" /></p>
 
