@@ -16,7 +16,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="left" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parasraut21&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)" alt="paras-raut" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paras-raut&show_icons=true&locale=en" alt="paras-raut" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paras-raut&" alt="paras-raut" /></p>
